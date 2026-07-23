@@ -99,3 +99,9 @@ This project aims to build a shared vocabulary around operational continuity for
 This project is released under the MIT License.
 
 See **LICENSE** for details.
+
+---
+
+> **Conversation memory preserves history.**
+>
+> **Agent Rehydration preserves continuity.**
