@@ -80,10 +80,9 @@ Current milestones:
 
 ## Getting Started
 
-1. Read **MANIFESTO.md**
-2. Continue with **SPECIFICATION_V0.1.md**
-3. Explore the documentation inside **docs/**
-
+1. Read **[MANIFESTO.md](MANIFESTO.md)**
+2. Continue with **[SPECIFICATION_V0.1.md](SPECIFICATION_V0.1.md)**
+3. Explore the **docs/** directory
 ---
 
 ## Contributing
