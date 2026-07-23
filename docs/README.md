@@ -61,6 +61,23 @@ It is an open conceptual initiative intended to encourage discussion, research a
 
 ---
 
+## Project Status
+
+Agent Rehydration is currently in its foundational phase.
+
+The project focuses on defining a shared conceptual framework before introducing reference implementations.
+
+Current milestones:
+
+- ✅ Foundational Manifesto v1.0
+- ✅ Initial Repository
+- 🚧 Technical Specification v0.1
+- ⏳ Glossary
+- ⏳ Reference Architecture
+- ⏳ Example Implementations
+
+---
+
 ## Getting Started
 
 1. Read **MANIFESTO.md**
