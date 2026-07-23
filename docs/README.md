@@ -1,106 +1,15 @@
-# Agent Rehydration
+# Documentation
 
-> **Conversation memory preserves history.**
->
-> **Agent Rehydration preserves continuity.**
+This directory contains the technical documentation for the Agent Rehydration project.
 
-Agent Rehydration is an open conceptual initiative that defines and explores the preservation and reconstruction of operational continuity for autonomous AI agents.
+## Available Documents
 
-As AI systems become increasingly autonomous, interruptions become inevitable. Agent Rehydration proposes a common language and a conceptual framework for understanding how intelligent agents can continue meaningful work across interruptions, environments and time.
+- **[MANIFESTO.md](../MANIFESTO.md)** — Foundational manifesto.
+- **[SPECIFICATION_V0.1.md](../SPECIFICATION_V0.1.md)** — Technical specification.
 
----
+## Planned Documentation
 
-## Why Agent Rehydration?
-
-Traditional software restores execution.
-
-Conversation memory restores history.
-
-Autonomous AI agents require something different:
-
-**the ability to preserve and reconstruct operational continuity.**
-
-Agent Rehydration is our name for that capability.
-
----
-
-## Repository Structure
-
-| Document | Description |
-|----------|-------------|
-| 📜 **MANIFESTO.md** | Foundational manifesto introducing the concept of Agent Rehydration |
-| 📘 **SPECIFICATION_V0.1.md** | Initial technical specification of the concept |
-| 📂 **docs/** | Technical documentation and future extensions |
-
----
-
-## Core Principles
-
-- Operational Continuity
-- Vendor Neutrality
-- Portability
-- Explainability
-- Security
-- Inspectability
-- Verifiability
-- Extensibility
-
----
-
-## Vision
-
-Agent Rehydration is not a product.
-
-It is not a framework.
-
-It is not tied to a specific AI model.
-
-It is an open conceptual initiative intended to encourage discussion, research and collaboration around one emerging challenge:
-
-**How can autonomous AI agents continue their work after interruption?**
-
----
-
-## Project Status
-
-Agent Rehydration is currently in its foundational phase.
-
-The project focuses on defining a shared conceptual framework before introducing reference implementations.
-
-Current milestones:
-
-- ✅ Foundational Manifesto v1.0
-- ✅ Initial Repository
-- 🚧 Technical Specification v0.1
-- ⏳ Glossary
-- ⏳ Reference Architecture
-- ⏳ Example Implementations
-
----
-
-## Getting Started
-
-1. Read **[MANIFESTO.md](MANIFESTO.md)**
-2. Continue with **[SPECIFICATION_V0.1.md](SPECIFICATION_V0.1.md)**
-3. Explore the **docs/** directory
----
-
-## Contributing
-
-Contributions, discussions and alternative implementations are welcome.
-
-This project aims to build a shared vocabulary around operational continuity for autonomous AI systems.
-
----
-
-## License
-
-This project is released under the MIT License.
-
-See **LICENSE** for details.
-
----
-
-> **Conversation memory preserves history.**
->
-> **Agent Rehydration preserves continuity.**
+- Glossary
+- Reference Architecture
+- Examples
+- Roadmap
